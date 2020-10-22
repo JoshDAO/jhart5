@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-I'm an aspiring full-stack/back-end developer currently learning with [Founders And Coders.](https://www.foundersandcoders.com/about/)
-I am having a blast learning the skills I need to make an impact and also demystifying the invisible magic that makes our technological world tick! :star: :mind-blown:
+I'm a full-stack/back-end developer currently looking for a new role to take on where I can continue to learn new technologies and programming principles.
 
 
 
-### 🌱 I have learned ...
+### 🌱 I know ...
 
 :heavy_check_mark: HTML & CSS
 
 :heavy_check_mark: HTTP
 
-:heavy_check_mark: Testing (Cypress, Supertest)
+:heavy_check_mark: Testing (Cypress, Supertest, Jest, React Testing Library)
 
 :heavy_check_mark: Node.js and Express
 

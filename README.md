@@ -6,7 +6,7 @@ I'm a full-stack/back-end developer currently looking for a new role to take on 
 
 ### 🌱 I know ...
 
-:heavy_check_mark: HTML & CSS
+:heavy_check_mark: HTML & CSS (Styled Components)
 
 :heavy_check_mark: HTTP
 
@@ -16,10 +16,16 @@ I'm a full-stack/back-end developer currently looking for a new role to take on 
 
 :heavy_check_mark: Databases (PostgreSQL and MongoDB)
 
-:heavy_check_mark: Authentication (Password management, cookies, JWT)
+:heavy_check_mark: Authentication (Password management, cookies, JWT, bcrypt)
 
 :heavy_check_mark: REST APIs
 
 :heavy_check_mark: React Hooks
 
 :heavy_check_mark: Continuous Integration (CircleCI)
+
+### Next on my list ...
+
+AWS
+Docker
+Object Oriented principles with either TypeScript or Python.

@@ -26,6 +26,6 @@ I'm a full-stack/back-end developer currently looking for a new role to take on 
 
 ### Next on my list ...
 
-AWS
-Docker
-Object Oriented principles with either TypeScript or Python.
+- AWS
+- Docker
+- Object Oriented principles with either TypeScript or Python.
